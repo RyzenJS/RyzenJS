@@ -2,6 +2,7 @@
 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 🥅 2021 Goals: Learning more about Tailwind CSS
+- 🥅 2021 Goals: Learning more about SECRET
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RyzenJS" alt="RyzenJS" /> </p>
