@@ -2,7 +2,7 @@
 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 🥅 2021 Goals: Learning more about Tailwind CSS
-- 🥅 Evil Geniuses
+- 🥅 Evil Geniuses & Team Secret
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RyzenJS" alt="RyzenJS" /> </p>
