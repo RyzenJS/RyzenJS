@@ -3,6 +3,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 🥅 2021 Goals: Learning more about Tailwind CSS
 - 🥅 Evil Geniuses 2021 Animajor
+BTS BIOT!
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RyzenJS" alt="RyzenJS" /> </p>
